@@ -29,6 +29,7 @@ This is not a production-ready application. It’s just for practicing Spring Se
 - Create role-based authorization
 - Add login & signup REST APIs
 - Integrate with a frontend (e.g., React/Flutter)
+- 
 ## Disclaimer ⚠️
 This project is a work-in-progress and only for learning.
 Not recommended for production use.
