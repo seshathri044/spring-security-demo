@@ -1,5 +1,5 @@
 # Spring Security Basic Example 🚀
-This is a very basic Spring Security project built for learning purposes only.
+This is a basic Spring Security project built for learning purposes only.
 It demonstrates:
 - Setting up Spring Security with @EnableWebSecurity
 - Using BCryptPasswordEncoder for secure password storage
