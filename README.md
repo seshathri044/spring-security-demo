@@ -1,5 +1,8 @@
 # Spring Security Basic Example 🚀
-This is a basic Spring Security project built for learning purposes only.
+This is a basic Spring Security project built for My learning purposes.
+## ⚠️ Note:
+This is not a production-ready application. It’s just for practicing Spring Security concepts, so it may contain errors or incomplete features.
+
 It demonstrates:
 - Setting up Spring Security with @EnableWebSecurity
 - Using BCryptPasswordEncoder for secure password storage
@@ -8,8 +11,6 @@ It demonstrates:
 - Stateless session management (useful for APIs)
 A simple UserService to encode and save users
 
-## ⚠️ Note:
-This is not a production-ready application. It’s just for practicing Spring Security concepts, so it may contain errors or incomplete features.
 ## Tech Stack 🛠
 - Java 17+ (or your installed version)
 - Spring Boot (Security, Web, Data JPA)
@@ -29,11 +30,3 @@ This is not a production-ready application. It’s just for practicing Spring Se
 - Create role-based authorization
 - Add login & signup REST APIs
 - Integrate with a frontend (e.g., React/Flutter)
-- 
-## Disclaimer ⚠️
-This project is a work-in-progress and only for learning.
-Not recommended for production use.
-
-
-This project is a work-in-progress and only for learning.
-Not recommended for production use.
